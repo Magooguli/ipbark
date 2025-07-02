@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run IP Display",
+            "type": "shell",
+            "command": "python ipdisplay.py",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

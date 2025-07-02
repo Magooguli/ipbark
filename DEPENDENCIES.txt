@@ -1,0 +1,16 @@
+# Dog Bark IP Display Dependencies
+
+Required system dependencies:
+- python3 (Python 3.x)
+- python3-tk (Tkinter GUI library)
+- curl (command-line tool for fetching IP and API data)
+- aplay (for audio on Linux; part of alsa-utils)
+- afplay (for audio on macOS)
+- dogbark.wav (audio file, must be present in the app directory)
+
+Optional:
+- dogbark.png (icon file, if you want a custom icon for the desktop entry)
+
+Notes:
+- All dependencies except dogbark.wav and dogbark.png are available from standard package managers (apt, dnf, brew, etc).
+- On Fedora, python3-tk is called python3-tkinter.
