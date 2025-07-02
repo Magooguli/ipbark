@@ -61,7 +61,6 @@ python ipdisplay.py
 
 ## Project Structure
 - `ipdisplay.py`: Main script with Tkinter GUI and all features.
-- `.github/copilot-instructions.md`: Copilot custom instructions for this workspace.
 - `.vscode/tasks.json`: VS Code task for running the app.
 
 ## Requirements
